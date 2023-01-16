@@ -1,0 +1,77 @@
+<! DOCTYPE html> 
+
+  
+
+<html lang="en"> 
+
+  
+
+   <head>  
+
+  
+
+       <title>Tag Test</title> 
+
+  
+
+  </head> 
+
+  
+
+<body> 
+
+  
+
+  <p> 
+
+This website is built in order to use the different tags available. 
+
+  
+
+<div>An Unordered List of the colour of pens you can write with without anyone judging you. </div> <!-- Seperates the line -->
+
+ 
+
+<ul>  <!-- This is an undordered List. It will put it down as bullet points. -->
+
+<li> Blue </li> <!-- this means an element in the list -->
+
+<li> Black </li> 
+
+</ul> 
+
+<div><u><i>Top 3 easiest classes </i></u></div>
+
+
+<ol>   <!-- This is a ordered List. It will include numbers. -->
+<li><b> COMP-2067 </b></li>
+<li> COMP-1400 </li>
+<li> COMP 2057 </li>
+</ol>
+
+
+<dl> <!-- This is a non-Indented list. It is the same as an Ordered list (<ol>) except it is not indented. -->
+<dt> Pog</dt>
+<dd> One must Pog to be gamming.  </dd>
+</dl>
+
+
+
+
+ 
+
+  </p> 
+
+ 
+<address> 3dsam.gaming@gmail.com </address>
+
+<a href="#top"> Back to Top</a>
+<div>
+<a href="https://www.edgeGamers.com">eGO! </a>
+</div>
+
+</body> 
+
+  
+
+</html> 
